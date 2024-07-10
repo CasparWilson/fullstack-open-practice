@@ -1,0 +1,13 @@
+{
+  "name": "fullstack-open-practice",
+  "version": "0.0.1",
+  "description": "coding along fullstack-open course",
+  "main": "index.js",
+  "repository": "Y",
+  "author": "Caspar",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "private": false
+}
